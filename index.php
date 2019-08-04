@@ -36,11 +36,11 @@
                 Activities
               </a>
               <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                <a class="dropdown-item" href="#">Activity 1</a>
-                <a class="dropdown-item" href="#">Activity 2</a>
-                <a class="dropdown-item" href="#">Activity 3</a>
-                <a class="dropdown-item" href="#">Activity 4</a>
-                <a class="dropdown-item" href="#">Activity 5</a>
+                <a class="dropdown-item" href="act1.html">Activity 1</a>
+                <a class="dropdown-item" href="act2.html">Activity 2</a>
+                <a class="dropdown-item" href="act3.html">Activity 3</a>
+                <a class="dropdown-item" href="act4.html">Activity 4</a>
+                <a class="dropdown-item" href="act5.html">Activity 5</a>
               </div>
             </li>
             <li class="nav-item dropdown">
