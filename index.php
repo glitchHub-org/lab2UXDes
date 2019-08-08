@@ -25,10 +25,10 @@
                   Reflections
                 </a>
                 <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                  <a class="dropdown-item" href="reflection1.html">Refleciton 1</a>
-                  <a class="dropdown-item" href="reflection2.html">Refleciton 2</a>
-                  <a class="dropdown-item" href="reflection3.html">Refleciton 3</a>
-                  <a class="dropdown-item" href="reflection4.html">Refleciton 4</a>
+                  <a class="dropdown-item" href="Reflection1.html">Refleciton 1</a>
+                  <a class="dropdown-item" href="Reflection2.html">Refleciton 2</a>
+                  <a class="dropdown-item" href="Reflection3.html">Refleciton 3</a>
+                  <a class="dropdown-item" href="Reflection4.html">Refleciton 4</a>
                 </div>
               </li>
             <li class="nav-item dropdown">
