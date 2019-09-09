@@ -25,22 +25,21 @@
                   Reflections
                 </a>
                 <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                  <a class="dropdown-item" href="Reflection1.html">Refleciton 1</a>
-                  <a class="dropdown-item" href="Reflection2.html">Refleciton 2</a>
-                  <a class="dropdown-item" href="Reflection3.html">Refleciton 3</a>
-                  <a class="dropdown-item" href="Reflection4.html">Refleciton 4</a>
-                </div>
-              </li>
-            <li class="nav-item dropdown">
-              <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                Activities
-              </a>
-              <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                <a class="dropdown-item" href="act1.html">Activity 1</a>
-                <a class="dropdown-item" href="act2.html">Activity 2</a>
-                <a class="dropdown-item" href="act3.html">Activity 3</a>
-                <a class="dropdown-item" href="act4.html">Activity 4-6: Need Finding</a>
-              </div>
+                    <a class="dropdown-item" href="Reflection1.html">Refleciton 1: The first week in User Design</a>
+                    <a class="dropdown-item" href="Reflection2.html">Refleciton 2: Prototyping</a>
+                    <a class="dropdown-item" href="Reflection3.html">Refleciton 3: Heroku Publication and GitHub</a>
+                    <a class="dropdown-item" href="Reflection4.html">Refleciton 4: Userinyerface</a>
+                  </div>
+                </li>
+              <li class="nav-item dropdown">
+                <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                  Activities
+                </a>
+                <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                  <a class="dropdown-item" href="act1.html">Activity 1: The Introduction</a>
+                  <a class="dropdown-item" href="act2.html">Activity 2: Favourite Applications</a>
+                  <a class="dropdown-item" href="act3.html">Activity 3: 1000 floor problem</a>
+                  <a class="dropdown-item" href="act4.html">Activity 4-6: Need Finding</a>
             </li>
             <li class="nav-item dropdown">
                 <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
