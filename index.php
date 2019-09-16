@@ -40,6 +40,7 @@
                   <a class="dropdown-item" href="act2.html">Activity 2: Favourite Applications</a>
                   <a class="dropdown-item" href="act3.html">Activity 3: 1000 floor problem</a>
                   <a class="dropdown-item" href="act4.html">Activity 4-6: Need Finding</a>
+                  <a class="dropdown-item" href="act7.html">Activity 7: Information Design</a>
             </li>
             <li class="nav-item dropdown">
                 <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
