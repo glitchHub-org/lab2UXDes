@@ -49,7 +49,7 @@
                 <div class="dropdown-menu" aria-labelledby="navbarDropdown">    
                   <a class="dropdown-item" href="test.html">Contacts</a>
                   <a class="dropdown-item" href="index.php">About Me</a>
-                  <a class="dropdown-item" href="certificates">Certificates</a>
+                  <a class="dropdown-item" href="certificates.html">Certificates</a>
                 </div>
         </div>
       </nav>
