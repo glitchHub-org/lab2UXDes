@@ -44,6 +44,7 @@
                   <a class="dropdown-item" href="act5.html">Activity 5: Initial Log-in pages</a>
                   <a class="dropdown-item" href="act6.html">Activity 6: Personas</a>
                   <a class="dropdown-item" href="act7.html">Activity 7: Information Design</a>
+                  <a class="dropdown-item" href="act8.html">Activity 8: 3x3 grid</a>
             </li>
             <li class="nav-item dropdown">
                 <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
